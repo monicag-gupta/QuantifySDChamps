@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+testpaths = ["sdd-w5-monday", "sdd-w5-tuesday", "sdd-w5-thursday", "capstone/tests"]
+python_files = ["test_*.py"]
+addopts = "-q"
